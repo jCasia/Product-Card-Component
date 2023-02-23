@@ -1,0 +1,9 @@
+.container {
+  background-color: var(--color-white);
+  max-width: 43rem;
+  border-radius: 0.75rem;
+  overflow: hidden;
+
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}

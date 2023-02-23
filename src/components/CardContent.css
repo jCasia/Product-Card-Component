@@ -1,0 +1,36 @@
+.img-container {
+  width: 100%;
+}
+
+.img {
+  width: 100%;
+  height: 100%;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1.75rem;
+
+  padding: 0 2rem;
+}
+
+.subheading {
+  color: var(--color-dark-grayish-blue);
+  letter-spacing: 0.3rem;
+  font-size: 0.8rem;
+}
+
+.heading {
+  font-family: "Fraunces";
+  color: var(--color-very-dark-blue);
+  padding-right: 2.5rem;
+  line-height: 1;
+  font-size: 2.25rem;
+}
+
+.text {
+  color: var(--color-dark-grayish-blue);
+  line-height: 1.5;
+}
