@@ -7,7 +7,7 @@ const Button = () => {
   return (
     <button type="button" className="btn">
       <img src={cartImg} className="cart-img" alt="" />
-      <p className="btn-text">Add to Cart</p>
+      Add to Cart
     </button>
   );
 };
