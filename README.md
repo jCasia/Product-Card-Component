@@ -6,6 +6,7 @@ This is yet another simple card component that was built using React and CSS for
 
 ### Links
 
+- You can check out the Live Site for this project: [Click here](https://jcasia.github.io/Product-Card-Component/)
 - My Frontend Mentor Username - [@jCasia](https://www.frontendmentor.io/profile/jCasia)
 
 ### Some screenshot of this project:
